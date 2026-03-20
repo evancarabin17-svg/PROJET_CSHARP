@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985BD563-23FA-4BA5-A9D6-484159648BAD}|ALGO02_EXO02\\ALGO02_EXO02.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo02_exo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985BD563-23FA-4BA5-A9D6-484159648BAD}|ALGO02_EXO02\\ALGO02_EXO02.csproj|solutionrelative:algo02_exo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO02\\Program.cs",
+              "RelativeDocumentMoniker": "ALGO02_EXO02\\Program.cs",
+              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO02\\Program.cs",
+              "RelativeToolTip": "ALGO02_EXO02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T20:10:30.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
