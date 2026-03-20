@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A15DF39F-1938-4B93-969C-F56FA0BE9EBC}|ALGO02_EXO06\\ALGO02_EXO06.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo02_exo06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DF39F-1938-4B93-969C-F56FA0BE9EBC}|ALGO02_EXO06\\ALGO02_EXO06.csproj|solutionrelative:algo02_exo06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D1FF228-1557-4149-89A6-2102832DAEFF}|ALGO02_EXO05\\ALGO02_EXO05.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo02_exo05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D1FF228-1557-4149-89A6-2102832DAEFF}|ALGO02_EXO05\\ALGO02_EXO05.csproj|solutionrelative:algo02_exo05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO06\\Program.cs",
+              "RelativeDocumentMoniker": "ALGO02_EXO06\\Program.cs",
+              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO06\\Program.cs",
+              "RelativeToolTip": "ALGO02_EXO06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T20:32:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO05\\Program.cs",
               "RelativeDocumentMoniker": "ALGO02_EXO05\\Program.cs",
               "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO05\\Program.cs",
               "RelativeToolTip": "ALGO02_EXO05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T20:25:10.709Z",
               "EditorCaption": ""
