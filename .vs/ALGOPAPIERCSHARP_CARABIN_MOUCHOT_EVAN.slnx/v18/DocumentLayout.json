@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB2FF0D1-F0C9-481A-ACED-2599EE7E9255}|ALGO02_EXO07\\ALGO02_EXO07.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo02_exo07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB2FF0D1-F0C9-481A-ACED-2599EE7E9255}|ALGO02_EXO07\\ALGO02_EXO07.csproj|solutionrelative:algo02_exo07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7124B3EA-1122-4DE5-B5DF-9BA5888FD697}|ALGO02_EXO08\\ALGO02_EXO08.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo02_exo08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7124B3EA-1122-4DE5-B5DF-9BA5888FD697}|ALGO02_EXO08\\ALGO02_EXO08.csproj|solutionrelative:algo02_exo08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO07\\Program.cs",
-              "RelativeDocumentMoniker": "ALGO02_EXO07\\Program.cs",
-              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO07\\Program.cs",
-              "RelativeToolTip": "ALGO02_EXO07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO08\\Program.cs",
+              "RelativeDocumentMoniker": "ALGO02_EXO08\\Program.cs",
+              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO08\\Program.cs",
+              "RelativeToolTip": "ALGO02_EXO08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T20:34:43.856Z",
+              "WhenOpened": "2026-03-20T20:36:57.174Z",
               "EditorCaption": ""
             }
           ]
