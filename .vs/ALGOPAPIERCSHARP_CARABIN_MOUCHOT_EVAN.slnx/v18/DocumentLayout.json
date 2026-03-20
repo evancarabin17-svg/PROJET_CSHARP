@@ -3,11 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FCF0B95-4F80-4206-8DBA-83B0237B6115}|ALGO03_EXO03\\ALGO03_EXO03.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo03_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCF0B95-4F80-4206-8DBA-83B0237B6115}|ALGO03_EXO03\\ALGO03_EXO03.csproj|solutionrelative:algo03_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{806E416A-672A-4B62-B63C-4BF4C71D23AC}|ALGO03_EXO04\\ALGO03_EXO04.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo03_exo04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806E416A-672A-4B62-B63C-4BF4C71D23AC}|ALGO03_EXO04\\ALGO03_EXO04.csproj|solutionrelative:algo03_exo04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EVAN\\Documents\\Exercices_csharp\\ALGO03_EXO03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FCF0B95-4F80-4206-8DBA-83B0237B6115}|ALGO03_EXO03\\ALGO03_EXO03.csproj|c:\\users\\evan\\documents\\bts\\slam\\algopapiercsharp_carabin_mouchot_evan\\algo03_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCF0B95-4F80-4206-8DBA-83B0237B6115}|ALGO03_EXO03\\ALGO03_EXO03.csproj|solutionrelative:algo03_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\Exercices_csharp\\ALGO03_EXO03\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Exercices_csharp\\ALGO03_EXO03\\Program.cs",
-              "ToolTip": "C:\\Users\\EVAN\\Documents\\Exercices_csharp\\ALGO03_EXO03\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Exercices_csharp\\ALGO03_EXO03\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwv0QAAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO03_EXO04\\Program.cs",
+              "RelativeDocumentMoniker": "ALGO03_EXO04\\Program.cs",
+              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO03_EXO04\\Program.cs",
+              "RelativeToolTip": "ALGO03_EXO04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T20:47:43.985Z",
+              "WhenOpened": "2026-03-20T20:50:25.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO03_EXO03\\Program.cs",
               "RelativeDocumentMoniker": "ALGO03_EXO03\\Program.cs",
               "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO03_EXO03\\Program.cs",
               "RelativeToolTip": "ALGO03_EXO03\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T20:47:37.767Z",
               "EditorCaption": ""
