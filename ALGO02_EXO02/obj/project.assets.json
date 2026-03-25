@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EVAN\\.nuget\\packages\\": {}
+    "C:\\Users\\Elève\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO02\\ALGO02_EXO02.csproj",
+      "projectUniqueName": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO02\\ALGO02_EXO02.csproj",
       "projectName": "ALGO02_EXO02",
-      "projectPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO02\\ALGO02_EXO02.csproj",
-      "packagesPath": "C:\\Users\\EVAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\ALGOPAPIERCSHARP_CARABIN_MOUCHOT_EVAN\\ALGO02_EXO02\\obj\\",
+      "projectPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO02\\ALGO02_EXO02.csproj",
+      "packagesPath": "C:\\Users\\Elève\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elève\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
