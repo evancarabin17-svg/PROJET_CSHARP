@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Elève\\.nuget\\packages\\": {}
+    "C:\\Users\\EVAN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO09\\ALGO02_EXO09.csproj",
+      "projectUniqueName": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO02_EXO09\\ALGO02_EXO09.csproj",
       "projectName": "ALGO02_EXO09",
-      "projectPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO09\\ALGO02_EXO09.csproj",
-      "packagesPath": "C:\\Users\\Elève\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO02_EXO09\\obj\\",
+      "projectPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO02_EXO09\\ALGO02_EXO09.csproj",
+      "packagesPath": "C:\\Users\\EVAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO02_EXO09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Elève\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

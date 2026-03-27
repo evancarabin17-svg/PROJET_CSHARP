@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj": {}
+    "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj": {
+    "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj",
+        "projectUniqueName": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj",
         "projectName": "ALGO03_EXO06",
-        "projectPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj",
-        "packagesPath": "C:\\Users\\Elève\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elève\\Documents\\SIO\\SLAM\\DEV_08\\PROJET_CSHARP\\ALGO03_EXO06\\obj\\",
+        "projectPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO03_EXO06\\ALGO03_EXO06.csproj",
+        "packagesPath": "C:\\Users\\EVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO03_EXO06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elève\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
