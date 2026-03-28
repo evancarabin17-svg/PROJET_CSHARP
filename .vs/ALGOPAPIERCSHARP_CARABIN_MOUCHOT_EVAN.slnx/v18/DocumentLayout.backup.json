@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BB798B2-DAD8-4EEF-9231-CDC099D96B34}|ALGO07_EXO03\\ALGO07_EXO03.csproj|c:\\users\\evan\\documents\\bts\\slam\\projet_csharp\\algo07_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BB798B2-DAD8-4EEF-9231-CDC099D96B34}|ALGO07_EXO03\\ALGO07_EXO03.csproj|solutionrelative:algo07_exo03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD3276D1-B6B4-4E67-A4BC-84246E8E5E43}|ALGO07_EXO02\\ALGO07_EXO02.csproj|c:\\users\\evan\\documents\\bts\\slam\\projet_csharp\\algo07_exo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD3276D1-B6B4-4E67-A4BC-84246E8E5E43}|ALGO07_EXO02\\ALGO07_EXO02.csproj|solutionrelative:algo07_exo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0DB844D-C15B-434B-9BB7-915A71AEF7B4}|ALGO07_EXO01\\ALGO07_EXO01.csproj|c:\\users\\evan\\documents\\bts\\slam\\projet_csharp\\algo07_exo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0DB844D-C15B-434B-9BB7-915A71AEF7B4}|ALGO07_EXO01\\ALGO07_EXO01.csproj|solutionrelative:algo07_exo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E654E903-4CE9-4B8A-861F-5A0CA6CAA70C}|ALGO07_EXO04\\ALGO07_EXO04.csproj|c:\\users\\evan\\documents\\bts\\slam\\projet_csharp\\algo07_exo04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E654E903-4CE9-4B8A-861F-5A0CA6CAA70C}|ALGO07_EXO04\\ALGO07_EXO04.csproj|solutionrelative:algo07_exo04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9B5B426-C847-46BA-82F0-FB4DDAD31624}|ALGO05_EXO11\\ALGO05_EXO11.csproj|c:\\users\\evan\\documents\\bts\\slam\\projet_csharp\\algo05_exo11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,43 +24,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO03\\Program.cs",
-              "RelativeDocumentMoniker": "ALGO07_EXO03\\Program.cs",
-              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO03\\Program.cs",
-              "RelativeToolTip": "ALGO07_EXO03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO04\\Program.cs",
+              "RelativeDocumentMoniker": "ALGO07_EXO04\\Program.cs",
+              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO04\\Program.cs",
+              "RelativeToolTip": "ALGO07_EXO04\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T12:14:17.146Z",
+              "WhenOpened": "2026-03-28T12:16:28.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO02\\Program.cs",
-              "RelativeDocumentMoniker": "ALGO07_EXO02\\Program.cs",
-              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO02\\Program.cs",
-              "RelativeToolTip": "ALGO07_EXO02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T12:10:25.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO01\\Program.cs",
-              "RelativeDocumentMoniker": "ALGO07_EXO01\\Program.cs",
-              "ToolTip": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO07_EXO01\\Program.cs",
-              "RelativeToolTip": "ALGO07_EXO01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T11:59:25.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EVAN\\Documents\\BTS\\SLAM\\PROJET_CSHARP\\ALGO05_EXO11\\Program.cs",
               "RelativeDocumentMoniker": "ALGO05_EXO11\\Program.cs",
