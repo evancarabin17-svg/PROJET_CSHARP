@@ -1,0 +1,20 @@
+﻿namespace ALGO07_EXO06
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int min(int nb1, int nb2)
+            {
+                if (nb1 < nb2)
+                {
+                    return nb1;
+                }
+                else
+                {
+                    return nb2;
+                }
+            }
+        }
+    }
+}
