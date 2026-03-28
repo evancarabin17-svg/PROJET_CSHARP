@@ -1,0 +1,15 @@
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\bin\Debug\net10.0\ALGO05_EXO07.exe
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\bin\Debug\net10.0\ALGO05_EXO07.deps.json
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\bin\Debug\net10.0\ALGO05_EXO07.runtimeconfig.json
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\bin\Debug\net10.0\ALGO05_EXO07.dll
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\bin\Debug\net10.0\ALGO05_EXO07.pdb
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.AssemblyInfoInputs.cache
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.AssemblyInfo.cs
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.csproj.CoreCompileInputs.cache
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.sourcelink.json
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.dll
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\refint\ALGO05_EXO07.dll
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.pdb
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ALGO05_EXO07.genruntimeconfig.cache
+C:\Users\EVAN\Documents\BTS\SLAM\PROJET_CSHARP\ALGO05_EXO07\obj\Debug\net10.0\ref\ALGO05_EXO07.dll
